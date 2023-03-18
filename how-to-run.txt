@@ -1,0 +1,10 @@
+1. Setup your env variable  
+   go to mongodb atlas website , 
+   login , create a cluster, then copy the connection link 
+   paste that into the .env file 
+2. cd backend -> npm i 
+3. cd frontend -> npm i 
+4. cd mern-project1-> npm i
+5. cd backend -> npm start
+6. cd frontend -> npm start
+
